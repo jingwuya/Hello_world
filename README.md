@@ -1,2 +1,3 @@
-# Hello_world
-python hello_world
+#!/usr/bin/python
+
+print ("Hello World")
